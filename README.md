@@ -1,3 +1,5 @@
+# Colin Powell
+## "All work is honorable.  Always do your best because someone is watching."
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
